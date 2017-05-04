@@ -1,1 +1,1 @@
-# centralia-college-library-website
+# Centralia College Library Website
